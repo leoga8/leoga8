@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python and IoT
 - 🌱 I’m currently learning IoT
 - 💞️ I’m looking to collaborate on Python projects
-- 📫 How to reach me ...
+- 📫 How to reach me: on Twitter
 
 <!---
 leoga8/leoga8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
