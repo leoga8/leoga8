@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leoga8
 - 👀 I’m interested in Python and IoT
-- 🌱 I’m currently learning/working on IoT
+- 🌱 I’m currently working on IoT
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me: on Twitter
 
