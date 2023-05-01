@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leoga8
-- 👀 I’m interested in Python, IoT and shell scripting
+- 👀 I’m interested in Python, IoT, SQL and shell scripting
 - 🌱 I’m currently working on IoT
-- 💞️ I’m looking to collaborate on Python, IoT and shell projects
+- 💞️ I’m looking to collaborate on Python, IoT, SQL and shell projects
 - 📫 How to reach me: on Twitter
 
 <!---
